@@ -1,0 +1,56 @@
+.form {
+  width: 330px;
+  margin: 135px;
+
+  form {
+    margin-top: 32px;
+
+    :global {
+      div.ant-form-item {
+        padding-top: 20px;
+        margin-bottom: 15px;
+        &:last-of-type {
+          margin-bottom: 14px !important;
+        }
+      }
+    }
+  }
+
+  button {
+    margin-top: 105px;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  label {
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 23px;
+    &:before {
+      content: none !important;
+    }
+  }
+
+  input {
+    border-radius: 0;
+    border-color: @gray-7;
+  }
+
+  p {
+    color: rgb(204, 204, 204);
+    text-align: center;
+    margin-top: 16px;
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.linkForgot {
+  position: relative;
+}
+
+.ant-spin-container,
+.ant-spin-nested-loading {
+  height: 100%;
+}

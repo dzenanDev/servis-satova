@@ -1,0 +1,76 @@
+.contentStyle4 {
+  height: 600px;
+
+  background-image: url('../../assets/images/festina.jpg');
+}
+.contentStyle2 {
+  height: 600px;
+  background-size: 100%;
+  background-image: url('../../assets/images/lotus.jpg');
+}
+.contentStyle3 {
+  height: 600px;
+  background-size: 100%;
+  background-image: url('../../assets/images/jaguar.jpg');
+}
+.contentStyle1 {
+  height: 600px;
+  background-size: 100%;
+  background-image: url('../../assets/images/jag.jpg');
+}
+
+.img1 {
+  padding: 15px;
+  margin: 15px;
+  height: 400px;
+  width: 250px;
+  background-size: 100%;
+  background-image: url('../../assets/images/jagTransp.png');
+}
+.img2 {
+  height: 400px;
+  width: 250px;
+  background-size: 100%;
+  padding: 15px;
+  margin: 15px;
+  background-image: url('../../assets/images/jagTransp.png');
+}
+.img3 {
+  height: 400px;
+  width: 250px;
+  background-size: 100%;
+  padding: 15px;
+  margin: 15px;
+  background-image: url('../../assets/images/jagTransp.png');
+}
+.img4 {
+  height: 400px;
+  width: 250px;
+  background-size: 100%;
+  padding: 15px;
+  margin: 15px;
+  background-image: url('../../assets/images/jagTransp.png');
+}
+.img5 {
+  height: 400px;
+  width: 250px;
+  background-size: 100%;
+  padding: 15px;
+  margin: 15px;
+  background-image: url('../../assets/images/jagTransp.png');
+}
+.img6 {
+  height: 400px;
+  width: 250px;
+  background-size: 100%;
+  padding: 15px;
+  margin: 15px;
+  background-image: url('../../assets/images/jagTransp.png');
+}
+
+.akcija {
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Courier New', Courier, monospace;
+  color: brown;
+}

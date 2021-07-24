@@ -1,0 +1,6 @@
+# compiled output
+.git
+.env*
+*Dockerfile*
+*k8s*
+node_modules

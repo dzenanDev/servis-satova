@@ -1,0 +1,50 @@
+.timeline {
+  :global {
+    .ant-timeline-item {
+      &.active {
+        a {
+
+          color: @primary-color;
+        }
+        .ant-timeline-item-content {
+          border-right: 2px solid @primary-color;
+        }
+      }
+    }
+    .ant-timeline-item-content {
+      a {
+        color: @black;
+      }
+        span {
+        display: block;
+        color: #9a9a9a;
+      }
+    }
+  }
+}
+.timelineTitle {
+  margin-bottom: 65px;
+  img {
+    margin-right: 25px;
+  }
+  span {
+    font-weight: bold;
+    line-height: 26px;
+    display: inline-block;
+  }
+}
+
+.timelineSidebar {
+  border-right: 1px solid #f0f2f5;
+}
+
+.mainContent {
+  padding: 80px 100px;
+  span {
+    width: 100%;
+  }
+  button {
+    margin-top: 20px;
+    display: block;
+  }
+}
