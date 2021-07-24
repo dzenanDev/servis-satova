@@ -1,5 +1,4 @@
-# Lupon React Starter Kit
-This is a starter kit for AntD React based UI.
+# Servis satova React JS
 
 
 ## Used technologies
