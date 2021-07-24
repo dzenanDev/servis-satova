@@ -1,4 +1,3 @@
-// import * as React from "react";
 import React, { FC } from 'react';
 import { Table, Button, message, Popconfirm } from 'antd';
 import { ColumnsType } from 'antd/es/table';
