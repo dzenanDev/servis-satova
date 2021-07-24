@@ -48,7 +48,7 @@ const ItemsPage: FC = () => {
   return (
     <>
       <Search
-        placeholder="Input brojRev number for search"
+        placeholder="Unesi brojRev za pretragu"
         onSearch={onSearch}
         enterButton
         name="value"
