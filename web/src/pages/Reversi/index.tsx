@@ -48,7 +48,7 @@ const ItemsPage: FC = () => {
   return (
     <>
       <Search
-        placeholder="Unesi brojRev za pretragu"
+        placeholder="Input revers number for search"
         onSearch={onSearch}
         enterButton
         name="value"
