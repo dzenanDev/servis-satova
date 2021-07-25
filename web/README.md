@@ -5,6 +5,7 @@
 - React 
 - Typescript
 - [AntD - Ant Design](https://ant.design/)
+- Node (server side)
 
 
 ## How to use?
